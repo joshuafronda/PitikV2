@@ -31,4 +31,5 @@ export const FRAMES: FrameOption[] = [
   { id: 'dark', name: 'Midnight', bgColor: '#1c1917', textColor: '#ffffff' },
   { id: 'cream', name: 'Cream', bgColor: '#f5f5f4', textColor: '#44403c' },
   { id: 'pink', name: 'Blush', bgColor: '#fce7f3', textColor: '#831843' },
+  { id: 'red', name: 'Ruby', bgColor: '#fee2e2', textColor: '#dc2626' },
 ];

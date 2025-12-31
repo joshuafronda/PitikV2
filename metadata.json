@@ -1,0 +1,7 @@
+{
+  "name": "Polaroid Moment",
+  "description": "Create a photobooth-style polaroid strip with custom filters and frames.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
